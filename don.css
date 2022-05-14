@@ -1,99 +1,8 @@
-body {
-    background-color: black;
-}
-
-a {
-    text-decoration: none;
-}
-
-.heading {
-    background-color: powderblue;
-    font-family: cursive;
-    font-style: italic;
-    font-weight: 1000;
-}
-
-.next {
-    background-color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.copy {
-    background-color: cornsilk;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.weblogo {
-    background-position: 50% 25%;
-    background-size: cover;
-    height: 90px;
-    width: 90px;
-}
-
-.Bollywood {
-    margin-left: 20px;
-    position: relative;
-}
-
-.Hollywood {
-    margin-left: 20%;
-    position: relative;
-}
-
-.Tollywood {
-    margin-left: 20%;
-    position: relative;
-}
-
-.Anime {
-    margin-left: 20%;
-    position: relative;
-}
-
-hr {
-    border-style: dashed;
-    border-color: rgb(119, 0, 255);
-    border-width: 2px;
-}
-
-.kashmir {
-    border-image: space;
-    margin-left: 100px;
-    margin-top: 50px;
-    position: relative;
-}
-
-.potu {
-    border-style: groove;
-    border-width: 10px;
-    border-color: royalblue;
-}
-
-.headings {
-    background-image: url(moveelogo.png);
-}
-
-.trailers {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: blueviolet;
-}
-
-.youtubeborder {
-    border-style: groove;
-    border-width: 10px;
-    border-color: royalblue;
-}
-
-.moviename {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: blue;
-}
-
-.gdlink {
-    background-color: #7d3741;
-    border: 1px solid #777C53;
+.gdlinks3 {
+    background-color: silver;
+    border: 5px solid rebeccapurple;
     border-radius: 15px;
-    color: white;
+    color: black;
     padding: 5px 5px;
     text-align: center;
     text-decoration: none;
@@ -101,7 +10,8 @@ hr {
     font-size: 15px;
     margin: 12px 12px 12px 12px;
     font-weight: bold;
-    cursor: pointer;
+    cursor: not-allowed;
     overflow-wrap: break-word;
     display: block;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
