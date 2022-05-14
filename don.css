@@ -1,229 +1,260 @@
-body {
-    background-color: black;
-}
-
-a {
-    text-decoration: none;
-}
-
-.heading {
-    background-color: powderblue;
-    font-family: cursive;
-    font-style: italic;
-    font-weight: 1000;
-}
-
-.next {
-    background-color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.copy {
-    background-color: cornsilk;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.weblogo {
-    background-position: 50% 25%;
-    background-size: cover;
-    height: 75px;
-    width: 75px;
-}
-
-.Bollywood {
-    margin-left: 20px;
-    position: relative;
-}
-
-.Hollywood {
-    margin-left: 20%;
-    position: relative;
-}
-
-.Tollywood {
-    margin-left: 20%;
-    position: relative;
-}
-
-.Anime {
-    margin-left: 20%;
-    position: relative;
-}
-
-hr {
-    border-style: dashed;
-    border-color: rgb(119, 0, 255);
-    border-width: 2px;
-}
-
-.kashmir {
-    border-image: space;
-    margin-left: 100px;
-    margin-top: 50px;
-    position: relative;
-}
-
-.potu {
-    border-style: groove;
-    border-width: 10px;
-    border-color: royalblue;
-}
-
-.headings {
-    background-image: url(moveelogo.png);
-}
-
-.trailers {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: blueviolet;
-}
-
-.youtubeborder {
-    border-style: groove;
-    border-width: 10px;
-    border-color: royalblue;
-}
-
-.moviename {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: blue;
-}
-
-.gdlink {
-    background-color: #7d3741;
-    border: 1px solid #777C53;
-    border-radius: 15px;
-    color: white;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: pointer;
-    overflow-wrap: break-word;
-    display: block;
-}
-
-.gdlinks {
-    background-color: powderblue;
-    border: 3px solid #5b537c;
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-}
-
-.gdlinks1 {
-    background-color: lightskyblue;
-    border: 2px solid red;
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-}
-
-.gdlinks2 {
-    background-color: powderblue;
-    border: 5px solid #454d08;
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.gdlinks3 {
-    background-color: silver;
-    border: 5px solid rebeccapurple;
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-.gdlinks4 {
-    background-color: silver;
-    border: 5px solid rebeccapurple;
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-.gdlinks5 {
-    background-color: rgb(192, 192, 192);
-    border: 5px solid rgb(111, 16, 205);
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-.next4 {
-    background-color: silver;
-    border: 5px solid rebeccapurple;
-    border-radius: 15px;
-    color: black;
-    padding: 5px 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 12px 12px 12px 12px;
-    font-weight: bold;
-    cursor: not-allowed;
-    overflow-wrap: break-word;
-    display: block;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
+    body {
+        background-color: black;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    .heading {
+        background-color: powderblue;
+        font-family: cursive;
+        font-style: italic;
+        font-weight: 1000;
+    }
+    
+    .next {
+        background-color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .copy {
+        background-color: cornsilk;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .weblogo {
+        background-position: 50% 25%;
+        background-size: cover;
+        height: 75px;
+        width: 75px;
+    }
+    
+    .Bollywood {
+        margin-left: 20px;
+        position: relative;
+    }
+    
+    .Hollywood {
+        margin-left: 20%;
+        position: relative;
+    }
+    
+    .Tollywood {
+        margin-left: 20%;
+        position: relative;
+    }
+    
+    .Anime {
+        margin-left: 20%;
+        position: relative;
+    }
+    
+    hr {
+        border-style: dashed;
+        border-color: rgb(119, 0, 255);
+        border-width: 2px;
+    }
+    
+    .kashmir {
+        border-image: space;
+        margin-left: 100px;
+        margin-top: 50px;
+        position: relative;
+    }
+    
+    .potu1 {
+        border-style: groove;
+        border-width: 10px;
+        border-color: rgb(1, 34, 46);
+        float: left;
+    }
+    
+    .potu2 {
+        border-style: groove;
+        border-width: 10px;
+        border-color: rgb(107, 18, 18);
+        float: right;
+    }
+    
+    .about1 {
+        color: grey;
+        padding-left: 50%;
+        margin-left: 100px;
+        margin-right: 100px;
+        position: relative;
+    }
+    
+    .about2 {
+        color: gray;
+        float: left;
+    }
+    
+    .headings {
+        background-image: url(moveelogo.png);
+    }
+    
+    .trailers {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: blueviolet;
+    }
+    
+    .youtubeborder {
+        border-style: groove;
+        border-width: 10px;
+        border-color: royalblue;
+    }
+    
+    .moviename {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: blue;
+    }
+    
+    .gdlink {
+        background-color: #7d3741;
+        border: 1px solid #777C53;
+        border-radius: 15px;
+        color: white;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: pointer;
+        overflow-wrap: break-word;
+        display: block;
+    }
+    
+    .gdlinks {
+        background-color: powderblue;
+        border: 3px solid #5b537c;
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+    }
+    
+    .gdlinks1 {
+        background-color: lightskyblue;
+        border: 2px solid red;
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+    }
+    
+    .gdlinks2 {
+        background-color: powderblue;
+        border: 5px solid #454d08;
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .gdlinks3 {
+        background-color: silver;
+        border: 5px solid rebeccapurple;
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .gdlinks4 {
+        background-color: silver;
+        border: 5px solid rebeccapurple;
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .gdlinks5 {
+        background-color: rgb(192, 192, 192);
+        border: 5px solid rgb(111, 16, 205);
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .next4 {
+        background-color: silver;
+        border: 5px solid rebeccapurple;
+        border-radius: 15px;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 12px 12px 12px 12px;
+        font-weight: bold;
+        cursor: not-allowed;
+        overflow-wrap: break-word;
+        display: block;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .kashmirfiles {
+        background-color: silver;
+        border: 5px solid rebeccapurple;
+        border-radius: 15px;
+        color: black;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
